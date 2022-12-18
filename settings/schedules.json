@@ -1,0 +1,8 @@
+{
+    "feed1": {
+        "refreshRateMinutes": 1,
+        "feeds": [
+            "639f05af12df7700273f8fa8"
+        ]
+    }
+}
