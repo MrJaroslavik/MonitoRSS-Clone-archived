@@ -1,9 +1,0 @@
-{
-  "bot": {
-    "status": "online",
-  },
-  "feeds": {
-    "refreshRateMinutes": 5,
-  },
-  "discordSupportURL": "https://discord.gg/YD2jDBspJk"
-}
