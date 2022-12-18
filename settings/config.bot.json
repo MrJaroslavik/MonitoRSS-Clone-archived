@@ -1,0 +1,68 @@
+{
+  "log": {
+    "level": "",
+    "destination": "",
+    "linkErrs": ,
+    "unfiltered": ,
+    "rateLimitHits": ,
+    "failedFeeds": 
+  },
+  "bot": {
+    "token": "",
+    "locale": "",
+    "enableCommands": ,
+    "prefix": "",
+    "status": "",
+    "activityType": "",
+    "activityName": "",
+    "streamActivityURL": "",
+    "ownerIDs": [],
+    "menuColor": ,
+    "deleteMenus": ,
+    "runSchedulesOnStart": ,
+    "exitOnSocketIssues": ,
+    "exitOnDatabaseDisconnect": ,
+    "exitOnExcessRateLimits": ,
+    "userAgent": "",
+    "feedParseTimeoutMs": ,
+    "feedRequestTimeoutMs": 
+  },
+  "database": {
+    "uri": "",
+    "connection": {},
+    "articlesExpire": ,
+    "deliveryRecordsExpire": 
+  },
+  "feeds": {
+    "refreshRateMinutes": ,
+    "articleDequeueRate": ,
+    "articleRateLimit": ,
+    "articleDailyChannelLimit": ,
+    "timezone": "",
+    "dateFormat": "ddd, D MMMM YYYY, h:mm A z",
+    "dateLanguage": "",
+    "dateLanguageList": [""],
+    "dateFallback": ,
+    "timeFallback": ,
+    "max": 36
+    "hoursUntilFail": ,
+    "notifyFail": ,
+    "sendFirstCycle": ,
+    "cycleMaxAge": 1,
+    "defaultText": "",
+    "imgPreviews": ,
+    "imgLinksExistence": ,
+    "checkDates": ,
+    "formatTables": ,
+    "directSubscribers": ,
+    "decode": {}
+  },
+  "advanced": {
+    "shards": 0
+    "batchSize": 400,
+    "parallelBatches": 1,
+    "parallelRuns": 1
+  },
+  "webURL": "",
+  "discordSupportURL": "https://discord.gg/YD2jDBspJk"
+}
