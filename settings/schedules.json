@@ -4,5 +4,11 @@
         "feeds": [
             "639f05af12df7700273f8fa8"
         ]
-    }
+    }, 
+    "feed180": {
+        "refreshRateMinutes": 180,
+        "feeds": [
+            "639ef86512df7700273f8405"
+        ]
+    } 
 }
